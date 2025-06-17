@@ -137,13 +137,13 @@
 > [!TIP]
 > In Finnish, **miten** and **kuinka** both translate to “how”, but they have slightly different uses. **Miten** is mainly used to ask about the way, method, or manner in which something happens:
 >
-> - *Miten tämä toimii?* = How does this work?
-> - *Miten voit?* = How are you?
+> - Miten tämä toimii? = How does this work?
+> - Miten voit? = How are you?
 >
 > **Kuinka**, on the other hand, is often used when asking about quantity, degree, or extent, such as:
 >
-> - *Kuinka vanha olet?* = How old are you?
-> - *Kuinka paljon tämä maksaa?* = How much does this cost?
+> - Kuinka vanha olet? = How old are you?
+> - Kuinka paljon tämä maksaa? = How much does this cost?
 >
 > In many everyday questions about manner or condition, **miten** is more common, while **kuinka** tends to appear in questions involving amounts, time, or intensity. That said, in casual speech, they can sometimes be interchangeable when asking about the manner of something.
 
@@ -339,3 +339,16 @@
 86. Yhdysvallat, Yhdysvaltojen
 87. ymmärtää (1), ymmärrän
 88. äidinkieli, äidinkielen
+
+## Your Turn: Create & Practice Your Introduction
+
+Write a short self-introduction using the vocabulary and structures from this chapter. Share it in the discussion forum, then practice it 3 times a week (say it aloud, record yourself, or role-play with a partner). We’ll expand this in later chapters with age, hobbies, and more!
+
+> [!IMPORTANT]
+> Hei! / Moi!  
+> Minä olen ______ [etunimi + sukunimi].  
+> Olen ______ [maalainen, e.g. kanadalainen, vietnamilainen].  
+> Puhun ______ [kielet, e.g. englantia, ranskaa, vähän suomea].  
+> En puhu ______ [e.g. saksaa, japania].  
+> Opiskelen ______ [e.g. tietotekniikkaa, Helsingissä, Aallossa].  
+> Hauska tutustua!
