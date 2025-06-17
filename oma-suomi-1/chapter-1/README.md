@@ -28,8 +28,8 @@
 > **Susan:** Hi!  
 > **Juhani:** Hi!  
 > **Susan:** I am Susan Mäntylä. Sorry for disturbing you.  
-> **Juhani:** Juhani Virtanen. Is there some problem?  
-> **Susan:** Problem? ... Sorry, I don't understand. I speak only a little Finnish. What is "ongelma" in English?  
+> **Juhani:** Juhani Virtanen. Is there some ongelma?  
+> **Susan:** Ongelma? ... Sorry, I don't understand. I speak only a little Finnish. What is "ongelma" in English?  
 > **Juhani:** Problem.  
 > **Susan:** Ah! No! No problem! I'm a new neighbor.  
 > **Juhani:** I see./Oh.  
@@ -215,7 +215,7 @@
 
 5. Complete the dialogue:
 
-   * A: *Puhutko suomea?*
+   * A: Puhutko suomea?
    * B: _____ (Yes, I speak Finnish.)
    * A: _____ (Thank you!)
    * B: _____ (You’re welcome.)
@@ -352,3 +352,7 @@ Write a short self-introduction using the vocabulary and structures from this ch
 > En puhu ______ [e.g. saksaa, japania].  
 > Opiskelen ______ [e.g. tietotekniikkaa, Helsingissä, Aallossa].  
 > Hauska tutustua!
+
+## Finally, Remember
+
+- puhua, asua, kirjoittaa, sanoa, ymmärtää, nähdä, olla, opiskella, tavata
