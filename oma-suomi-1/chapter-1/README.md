@@ -176,25 +176,51 @@ It's asking about a characteristic or belonging to a category.
 ## Verbs
 
 ### Type 1 (-a/-ä)
-- puhua, puhun - to speak [puhun suomea, puhun sinulle]
-- asua, asun - to live/reside [asun Helsingissä, asun talossa]
-- kirjoittaa, kirjoitan - to write [kirjoitan kirjeen, kirjoitan nimeni]
-- sanoa, sanon - to say [sanon jotain, sanon sinulle]
-- tutustua, tutustun - to get acquainted [tutustun uuteen ihmiseen]
-- täydentää, täydennän - to complete/fill out [täydennän lomakkeen]
-- ymmärtää, ymmärrän - to understand [ymmärrän suomea, ymmärrän sinut]
+| Infinitive | 1st Person | Meaning | Example Usage |
+|------------|------------|---------|---------------|
+| puhua | puhun | to speak | puhun suomea, puhun sinulle |
+| asua | asun | to live/reside | asun Helsingissä, asun talossa |
+| kirjoittaa | kirjoitan | to write | kirjoitan kirjeen, kirjoitan nimeni |
+| sanoa | sanon | to say | sanon jotain, sanon sinulle |
+| tutustua | tutustun | to get acquainted | tutustun uuteen ihmiseen |
+| täydentää | täydennän | to complete/fill out | täydennän lomakkeen |
+| ymmärtää | ymmärrän | to understand | ymmärrän suomea, ymmärrän sinut |
 
 ### Type 2 (-da/-dä)
-- nähdä, näen - to see [näen sinut, näen talon]
+| Infinitive | 1st Person | Meaning | Example Usage |
+|------------|------------|---------|---------------|
+| nähdä | näen | to see | näen sinut, näen talon |
 
 ### Type 3 (-la/-lä, -na/-nä, -ra/-rä, -ta/-tä)
-- olla, olen - to be [olen opettaja, olen kotona, olen suomalainen]
+| Infinitive | 1st Person | Meaning | Example Usage |
+|------------|------------|---------|---------------|
+| olla | olen | to be | olen opettaja, olen kotona, olen suomalainen |
+| opiskella | opiskelen | to study | opiskelen suomea |
 
 ### Type 4 (-ata/-ätä, -ita/-itä, -ota/-ötä, -uta/-ytä)
-- tavata, tapaan - to meet [tapaan ystävän, tapaan sinut huomenna]
+| Infinitive | 1st Person | Meaning | Example Usage |
+|------------|------------|---------|---------------|
+| tavata | tapaan | to meet | tapaan ystävän, tapaan sinut huomenna |
 
 ### Type 5 (-ita/-itä)
-- häiritä, häiritsen - to disturb [häiritsen sinua, anteeksi että häiritsen]
+| Infinitive | 1st Person | Meaning | Example Usage |
+|------------|------------|---------|---------------|
+| häiritä | häiritsen | to disturb | häiritsen sinua, anteeksi että häiritsen |
+
+## Personal Pronouns & Possessive Forms
+
+| Person | Subject Pronoun | Possessive Form | English | Example |
+|--------|----------------|-----------------|---------|---------|
+| **Singular** | | | | |
+| 1st | minä | minun | I, my | Minä puhun suomea. Minun naapurini on kanadalainen. |
+| 2nd | sinä | sinun | you, your | Puhutko sinä englantia? Mikä sinun äidinkieli on? |
+| 3rd | hän | hänen | he/she, his/her | Hän asuu Helsingissä. Hänen vaimon on opettaja. |
+| **Plural** | | | | |
+| 1st | me | meidän | we, our | Me opiskelemme suomea. Meidän opettaja on hauska. |
+| 2nd | te | teidän | you (plural/formal), your | Missä te asutte? Mikä teidän postinumero on? |
+| 3rd | he | heidän | they, their | He ovat uusia naapureita. Heidän koti on iso. |
+| **Other** | | | | |
+| Neutral | se | sen | it, its | Se on kaunis kaupunki. Sen nimi on Helsinki. |
 
 ## Key Expressions & Function Words
 
@@ -219,14 +245,6 @@ It's asking about a characteristic or belonging to a category.
 - tervetuloa - welcome
 - hei - hello/hi
 - anteeksi että häiritsen - sorry to bother you
-
-### Personal Pronouns & Possessive Forms
-- minä, minun - I, my
-- sinä, sinun - you (singular), your
-- hän, hänen - he/she, his/her
-- me, meidän - we, our
-- te, teidän - you (plural/formal), your
-- he, heidän - they, their
 
 ### Connecting Words
 - ja - and
