@@ -62,25 +62,18 @@
 10. Nice to meet you!
 11. See you then!
 
-### Is someone problem?
-**Joku** means someone/somebody or some/any. In "Onko joku ongelma?" it means "Is there **some** problem?" or more naturally "Is there **any** problem?"
+> [!TIP]
+> **Joku** means someone/somebody or some/any. In "Onko joku ongelma?" it means "Is there **some** problem?" or more naturally "Is there **any** problem?"  
+> Other examples:
+>
+> - Onko joku kotona? = Is someone home?
+> - Onko joku kysymys? = Is there some/any question?
 
-Other examples:
-- Onko joku kotona? = Is someone home?
-- Onko joku kysymys? = Is there some/any question?
-
-### The use of minkä
-**Minkä** is the genitive form of **mikä** (what), used to ask about origin, type, or possession:
-- Minkä maalainen? = What nationality? (literally "of what country?")
-- Minkä värinen? = What color?
-- Minkä merkkinen auto? = What brand of car?
-
-It's asking about a characteristic or belonging to a category.
-
-### The nuances of kirjoitetaan
-**Kirjoitetaan** is the passive form of **kirjoittaa** (to write). It means "is written" or "is spelled":
-- Miten se kirjoitetaan? = How is it written/spelled?
-- Se kirjoitetaan ... = It is written/spelled ...
+> [!NOTE]
+> **Kirjoitetaan** is the passive form of **kirjoittaa** (to write). It means "is written" or "is spelled":
+>
+> - Miten se kirjoitetaan? = How is it written/spelled?
+> - Se kirjoitetaan ... = It is written/spelled ...
 
 ## Sanasto
 
@@ -232,6 +225,28 @@ It's asking about a characteristic or belonging to a category.
 - kuinka - how/how much
 - minkä ikäinen - how old
 - minkä maalainen - what nationality
+
+> [!TIP]
+> In Finnish, **miten** and **kuinka** both translate to “how”, but they have slightly different uses. **Miten** is mainly used to ask about the way, method, or manner in which something happens:
+>
+> - *Miten tämä toimii?* = How does this work?
+> - *Miten voit?* = How are you?
+>
+> **Kuinka**, on the other hand, is often used when asking about quantity, degree, or extent, such as:
+>
+> - *Kuinka vanha olet?* = How old are you?
+> - *Kuinka paljon tämä maksaa?* = How much does this cost?
+>
+> In many everyday questions about manner or condition, **miten** is more common, while **kuinka** tends to appear in questions involving amounts, time, or intensity. That said, in casual speech, they can sometimes be interchangeable when asking about the manner of something.
+
+> [!NOTE]
+> **Minkä** is the genitive form of **mikä** (what), used to ask about origin, type, or possession:
+>
+> - Minkä maalainen? = What nationality? (literally "of what country?")
+> - Minkä värinen? = What color?
+> - Minkä merkkinen auto? = What brand of car?
+>
+> It's asking about a characteristic or belonging to a category.
 
 ### Yes/No & Responses
 - ei - no/not
