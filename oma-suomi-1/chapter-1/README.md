@@ -49,9 +49,9 @@
 - **Missä hän asuu?** - Hän asuu Suomessa.
 - **Mitä kieltä hän puhuu?** - Hän puhuu suomea. Hän ei puhu ranskaa. Hän ymmärtää vähän englantia.
 
-### Self-test questions
+### Self-Test Questions
 1. Who are you?
-2. What is her surname?
+2. What is his surname?
 3. How do you spell your name?
 4. What nationality are you?
 5. Where does he live?
@@ -74,6 +74,180 @@
 >
 > - Miten se kirjoitetaan? = How is it written/spelled?
 > - Se kirjoitetaan ... = It is written/spelled ...
+
+## Verbs & Basic Conjugations
+
+| Type       | Infinitive | 1st Person | Meaning              | Example Usage                                      |
+| :--------- | :--------- | :--------- | :------------------- | :------------------------------------------------- |
+| **1** |            |            |                      |                                                    |
+|            | puhua      | puhun      | to speak             | *puhun suomea*, *puhun sinulle*                    |
+|            | asua       | asun       | to live/reside       | *asun Helsingissä*, *asun talossa*                 |
+|            | kirjoittaa | kirjoitan  | to write             | *kirjoitan kirjeen*, *kirjoitan nimeni*            |
+|            | sanoa      | sanon      | to say               | *sanon jotain*, *sanon sinulle*                    |
+|            | tutustua   | tutustun   | to get acquainted    | *tutustun uuteen ihmiseen*                         |
+|            | täydentää  | täydennän  | to complete/fill out | *täydennän lomakkeen*                              |
+|            | ymmärtää   | ymmärrän   | to understand        | *ymmärrän suomea*, *ymmärrän sinut*                |
+| **2** |            |            |                      |                                                    |
+|            | nähdä      | näen       | to see               | *näen sinut*, *näen talon*                         |
+| **3** |            |            |                      |                                                    |
+|            | olla       | olen       | to be                | *olen opettaja*, *olen kotona*, *olen suomalainen* |
+|            | opiskella  | opiskelen  | to study             | *opiskelen suomea*                                 |
+| **4** |            |            |                      |                                                    |
+|            | tavata     | tapaan     | to meet              | *tapaan ystävän*, *tapaan sinut huomenna*          |
+| **5** |            |            |                      |                                                    |
+|            | häiritä    | häiritsen  | to disturb           | *häiritsen sinua*, *anteeksi että häiritsen*       |
+
+### Self-Test Questions
+1. Puhun _____ (englanti) ja vähän _____ (suomi). En puhu _____ (ranska).
+2. Mun äiti puhuu _____ (minä) _____ (ruotsi).
+3. Anteeksi, en _____ (ymmärtää). Voitko toistaa?
+4. Opiskelen Aalto-yliopistossa _____ (kemia).
+5. Minä _____ (olla) suomalainen, mutta mun ystävä _____ (olla) virolainen.
+6. Me _____ (opiskella) suomea yhdessä.
+7. Tänään minä _____ (tavata) uuden opettajan.
+8. I don't understand.
+9. I don't speak Finnish.
+
+## Personal Pronouns & Possessive Forms
+
+| Person | Subject Pronoun | Possessive Form | English | Example |
+|--------|----------------|-----------------|---------|---------|
+| **Singular** | | | | |
+| 1st | minä | minun | I, my | Minä puhun suomea. Minun naapurini on kanadalainen. |
+| 2nd | sinä | sinun | you, your | Puhutko sinä englantia? Mikä sinun äidinkieli on? |
+| 3rd | hän | hänen | he/she, his/her | Hän asuu Helsingissä. Hänen vaimon on opettaja. |
+| **Plural** | | | | |
+| 1st | me | meidän | we, our | Me opiskelemme suomea. Meidän opettaja on hauska. |
+| 2nd | te | teidän | you (plural/formal), your | Missä te asutte? Mikä teidän postinumero on? |
+| 3rd | he | heidän | they, their | He ovat uusia naapureita. Heidän koti on iso. |
+| **Other** | | | | |
+| Neutral | se | sen | it, its | Se on kaunis kaupunki. Sen nimi on Helsinki. |
+
+## Key Expressions & Function Words
+
+### Question Words
+- kuka - who
+- mikä - what
+- missä - where
+- miten - how
+- kuinka - how/how much
+- minkä ikäinen - how old
+- minkä maalainen - what nationality
+
+> [!TIP]
+> In Finnish, **miten** and **kuinka** both translate to “how”, but they have slightly different uses. **Miten** is mainly used to ask about the way, method, or manner in which something happens:
+>
+> - *Miten tämä toimii?* = How does this work?
+> - *Miten voit?* = How are you?
+>
+> **Kuinka**, on the other hand, is often used when asking about quantity, degree, or extent, such as:
+>
+> - *Kuinka vanha olet?* = How old are you?
+> - *Kuinka paljon tämä maksaa?* = How much does this cost?
+>
+> In many everyday questions about manner or condition, **miten** is more common, while **kuinka** tends to appear in questions involving amounts, time, or intensity. That said, in casual speech, they can sometimes be interchangeable when asking about the manner of something.
+
+> [!NOTE]
+> **Minkä** is the genitive form of **mikä** (what), used to ask about origin, type, or possession:
+>
+> - Minkä maalainen? = What nationality? (literally "of what country?")
+> - Minkä värinen? = What color?
+> - Minkä merkkinen auto? = What brand of car?
+>
+> It's asking about a characteristic or belonging to a category.
+
+### Yes/No & Responses
+- ei - no/not
+- anteeksi - sorry/excuse me
+- ei se mitään - it's nothing/no problem
+- ole hyvä - here you are/please
+- kiitos - thank you
+- samoin - likewise
+
+### Polite Expressions
+- tervetuloa - welcome
+- hei - hello/hi
+- anteeksi että häiritsen - sorry to bother you
+
+### Connecting Words
+- ja - and
+- että - that
+- entä - what about/and
+- vain - only
+
+## Exercises
+
+### A. Question Words Practice
+
+1. Fill in the blank with the correct question word:
+
+   * _____ sinä olet? (who)
+   * _____ tämä on? (what)
+   * _____ sinä asut? (where)
+   * _____ tulet yliopistoon? (how — method)
+   * _____ vanha hän on? (how old)
+   * _____ maalainen hän on? (what nationality)
+
+2. Translate these questions into Finnish:
+
+   * Who is your teacher?
+   * Where do you live?
+   * How do you come to university?
+   * How old are you?
+   * What nationality is your friend?
+
+3. Choose the correct question word for each sentence:
+
+   * _____ tämä maksaa? (miten / kuinka)
+   * _____ sinä voit? (miten / kuinka)
+   * _____ auto sinulla on? (mikä / minkä)
+   * _____ värinen paita tämä on? (mikä / minkä)
+
+### B. Yes/No & Responses
+
+4. Translate these into Finnish:
+
+   * No, I don’t speak Russian.
+   * Excuse me, where is the library?
+   * Thank you very much!
+   * Here you are.
+   * It’s nothing / No problem.
+
+5. Complete the dialogue:
+
+   * A: *Puhutko suomea?*
+   * B: _____ (Yes, I speak Finnish.)
+   * A: _____ (Thank you!)
+   * B: _____ (You’re welcome.)
+
+### C. Polite Expressions
+
+6. Write the Finnish for these expressions:
+
+   * Welcome!
+   * Hello!
+   * Sorry to bother you.
+
+7. Make a polite request using these expressions:
+
+   * _____ , voisinko saada vettä? (Excuse me)
+   * _____ , missä on wc? (Excuse me)
+
+### D. Connecting Words
+
+8. Join the sentences using the correct connecting word (**ja**, **että**, **entä**, or **vain**):
+
+   * Minä opiskelen suomea. Minä opiskelen englantia.
+   * Hän sanoi, _____ hän tulee myöhemmin.
+   * Minä juon kahvia. _____ sinä?
+   * Minulla on _____ yksi kysymys.
+
+9. Translate to Finnish:
+
+   * I speak Finnish **and** English.
+   * He said **that** he will come later.
+   * What about you?
+   * I am **just** a baby.
 
 ## Sanasto
 
@@ -165,92 +339,3 @@
 86. Yhdysvallat, Yhdysvaltojen
 87. ymmärtää (1), ymmärrän
 88. äidinkieli, äidinkielen
-
-## Verbs & Basic Conjugations
-
-| Type       | Infinitive | 1st Person | Meaning              | Example Usage                                      |
-| :--------- | :--------- | :--------- | :------------------- | :------------------------------------------------- |
-| **Type 1** |            |            |                      |                                                    |
-|            | puhua      | puhun      | to speak             | *puhun suomea*, *puhun sinulle*                    |
-|            | asua       | asun       | to live/reside       | *asun Helsingissä*, *asun talossa*                 |
-|            | kirjoittaa | kirjoitan  | to write             | *kirjoitan kirjeen*, *kirjoitan nimeni*            |
-|            | sanoa      | sanon      | to say               | *sanon jotain*, *sanon sinulle*                    |
-|            | tutustua   | tutustun   | to get acquainted    | *tutustun uuteen ihmiseen*                         |
-|            | täydentää  | täydennän  | to complete/fill out | *täydennän lomakkeen*                              |
-|            | ymmärtää   | ymmärrän   | to understand        | *ymmärrän suomea*, *ymmärrän sinut*                |
-| **Type 2** |            |            |                      |                                                    |
-|            | nähdä      | näen       | to see               | *näen sinut*, *näen talon*                         |
-| **Type 3** |            |            |                      |                                                    |
-|            | olla       | olen       | to be                | *olen opettaja*, *olen kotona*, *olen suomalainen* |
-|            | opiskella  | opiskelen  | to study             | *opiskelen suomea*                                 |
-| **Type 4** |            |            |                      |                                                    |
-|            | tavata     | tapaan     | to meet              | *tapaan ystävän*, *tapaan sinut huomenna*          |
-| **Type 5** |            |            |                      |                                                    |
-|            | häiritä    | häiritsen  | to disturb           | *häiritsen sinua*, *anteeksi että häiritsen*       |
-
-## Personal Pronouns & Possessive Forms
-
-| Person | Subject Pronoun | Possessive Form | English | Example |
-|--------|----------------|-----------------|---------|---------|
-| **Singular** | | | | |
-| 1st | minä | minun | I, my | Minä puhun suomea. Minun naapurini on kanadalainen. |
-| 2nd | sinä | sinun | you, your | Puhutko sinä englantia? Mikä sinun äidinkieli on? |
-| 3rd | hän | hänen | he/she, his/her | Hän asuu Helsingissä. Hänen vaimon on opettaja. |
-| **Plural** | | | | |
-| 1st | me | meidän | we, our | Me opiskelemme suomea. Meidän opettaja on hauska. |
-| 2nd | te | teidän | you (plural/formal), your | Missä te asutte? Mikä teidän postinumero on? |
-| 3rd | he | heidän | they, their | He ovat uusia naapureita. Heidän koti on iso. |
-| **Other** | | | | |
-| Neutral | se | sen | it, its | Se on kaunis kaupunki. Sen nimi on Helsinki. |
-
-## Key Expressions & Function Words
-
-### Question Words
-- kuka - who
-- mikä - what
-- missä - where
-- miten - how
-- kuinka - how/how much
-- minkä ikäinen - how old
-- minkä maalainen - what nationality
-
-> [!TIP]
-> In Finnish, **miten** and **kuinka** both translate to “how”, but they have slightly different uses. **Miten** is mainly used to ask about the way, method, or manner in which something happens:
->
-> - *Miten tämä toimii?* = How does this work?
-> - *Miten voit?* = How are you?
->
-> **Kuinka**, on the other hand, is often used when asking about quantity, degree, or extent, such as:
->
-> - *Kuinka vanha olet?* = How old are you?
-> - *Kuinka paljon tämä maksaa?* = How much does this cost?
->
-> In many everyday questions about manner or condition, **miten** is more common, while **kuinka** tends to appear in questions involving amounts, time, or intensity. That said, in casual speech, they can sometimes be interchangeable when asking about the manner of something.
-
-> [!NOTE]
-> **Minkä** is the genitive form of **mikä** (what), used to ask about origin, type, or possession:
->
-> - Minkä maalainen? = What nationality? (literally "of what country?")
-> - Minkä värinen? = What color?
-> - Minkä merkkinen auto? = What brand of car?
->
-> It's asking about a characteristic or belonging to a category.
-
-### Yes/No & Responses
-- ei - no/not
-- anteeksi - sorry/excuse me
-- ei se mitään - it's nothing/no problem
-- ole hyvä - here you are/please
-- kiitos - thank you
-- samoin - likewise
-
-### Polite Expressions
-- tervetuloa - welcome
-- hei - hello/hi
-- anteeksi että häiritsen - sorry to bother you
-
-### Connecting Words
-- ja - and
-- että - that
-- entä - what about/and
-- vain - only
