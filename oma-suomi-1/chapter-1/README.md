@@ -166,39 +166,27 @@
 87. ymmärtää (1), ymmärrän
 88. äidinkieli, äidinkielen
 
-## Verbs
+## Verbs & Basic Conjugations
 
-### Type 1 (-a/-ä)
-| Infinitive | 1st Person | Meaning | Example Usage |
-|------------|------------|---------|---------------|
-| puhua | puhun | to speak | puhun suomea, puhun sinulle |
-| asua | asun | to live/reside | asun Helsingissä, asun talossa |
-| kirjoittaa | kirjoitan | to write | kirjoitan kirjeen, kirjoitan nimeni |
-| sanoa | sanon | to say | sanon jotain, sanon sinulle |
-| tutustua | tutustun | to get acquainted | tutustun uuteen ihmiseen |
-| täydentää | täydennän | to complete/fill out | täydennän lomakkeen |
-| ymmärtää | ymmärrän | to understand | ymmärrän suomea, ymmärrän sinut |
-
-### Type 2 (-da/-dä)
-| Infinitive | 1st Person | Meaning | Example Usage |
-|------------|------------|---------|---------------|
-| nähdä | näen | to see | näen sinut, näen talon |
-
-### Type 3 (-la/-lä, -na/-nä, -ra/-rä, -ta/-tä)
-| Infinitive | 1st Person | Meaning | Example Usage |
-|------------|------------|---------|---------------|
-| olla | olen | to be | olen opettaja, olen kotona, olen suomalainen |
-| opiskella | opiskelen | to study | opiskelen suomea |
-
-### Type 4 (-ata/-ätä, -ita/-itä, -ota/-ötä, -uta/-ytä)
-| Infinitive | 1st Person | Meaning | Example Usage |
-|------------|------------|---------|---------------|
-| tavata | tapaan | to meet | tapaan ystävän, tapaan sinut huomenna |
-
-### Type 5 (-ita/-itä)
-| Infinitive | 1st Person | Meaning | Example Usage |
-|------------|------------|---------|---------------|
-| häiritä | häiritsen | to disturb | häiritsen sinua, anteeksi että häiritsen |
+| Type       | Infinitive | 1st Person | Meaning              | Example Usage                                      |
+| :--------- | :--------- | :--------- | :------------------- | :------------------------------------------------- |
+| **Type 1** |            |            |                      |                                                    |
+|            | puhua      | puhun      | to speak             | *puhun suomea*, *puhun sinulle*                    |
+|            | asua       | asun       | to live/reside       | *asun Helsingissä*, *asun talossa*                 |
+|            | kirjoittaa | kirjoitan  | to write             | *kirjoitan kirjeen*, *kirjoitan nimeni*            |
+|            | sanoa      | sanon      | to say               | *sanon jotain*, *sanon sinulle*                    |
+|            | tutustua   | tutustun   | to get acquainted    | *tutustun uuteen ihmiseen*                         |
+|            | täydentää  | täydennän  | to complete/fill out | *täydennän lomakkeen*                              |
+|            | ymmärtää   | ymmärrän   | to understand        | *ymmärrän suomea*, *ymmärrän sinut*                |
+| **Type 2** |            |            |                      |                                                    |
+|            | nähdä      | näen       | to see               | *näen sinut*, *näen talon*                         |
+| **Type 3** |            |            |                      |                                                    |
+|            | olla       | olen       | to be                | *olen opettaja*, *olen kotona*, *olen suomalainen* |
+|            | opiskella  | opiskelen  | to study             | *opiskelen suomea*                                 |
+| **Type 4** |            |            |                      |                                                    |
+|            | tavata     | tapaan     | to meet              | *tapaan ystävän*, *tapaan sinut huomenna*          |
+| **Type 5** |            |            |                      |                                                    |
+|            | häiritä    | häiritsen  | to disturb           | *häiritsen sinua*, *anteeksi että häiritsen*       |
 
 ## Personal Pronouns & Possessive Forms
 
