@@ -1,10 +1,10 @@
-# Oma Suomi 1, Chapter 1
+# Chapter 1 (Tervetuloa!)
 
 - Basic introductions and greetings
 - Personal pronouns (minä, sinä, hän)
 - Negative expressions (en ymmärrä, en puhu)
 
-## Tervetuloa!
+## Core Dialogue: Meeting Your Neighbor
 
 > [!IMPORTANT]
 > **Susan:** Hei!  
@@ -42,6 +42,8 @@
 > **Susan:** Okay, Juhani, see you!  
 > **Juhani:** Yeah, see you! Welcome to the building!
 
+Dialogue Comprehension Questions:
+
 - **Kuka hän on?** - Hän on Juhani.
 - **Mikä hänen sukunimi on?** - Hänen sukunimi on Virtanen.
 - **Miten hänen nimi kirjoitetaan?** - Se kirjoitetaan J-u-h-a-n-i V-i-r-t-a-n-e-n.
@@ -50,6 +52,7 @@
 - **Mitä kieltä hän puhuu?** - Hän puhuu suomea. Hän ei puhu ranskaa. Hän ymmärtää vähän englantia.
 
 ### Self-Test Questions
+
 1. Who are you?
 2. What is his surname?
 3. How do you spell your name?
@@ -63,17 +66,19 @@
 11. See you then!
 
 > [!TIP]
-> **Joku** means someone/somebody or some/any. In "Onko joku ongelma?" it means "Is there **some** problem?" or more naturally "Is there **any** problem?"  
-> Other examples:
+> **Joku** is trickier than it looks:
 >
+> - Onko joku ongelma? = Is there some/any problem?
 > - Onko joku kotona? = Is someone home?
-> - Onko joku kysymys? = Is there some/any question?
+>
+> Same word, different meanings based on context!
 
 > [!NOTE]
-> **Kirjoitetaan** is the passive form of **kirjoittaa** (to write). It means "is written" or "is spelled":
+> "Miten se kirjoitetaan?" introduces passive voice way before it's formally taught:
 >
-> - Miten se kirjoitetaan? = How is it written/spelled?
-> - Se kirjoitetaan ... = It is written/spelled ...
+> - **kirjoittaa** (to write) → **kirjoitetaan** (is written/spelled)
+>
+> This is your first taste of Finnish passive. It's everywhere!
 
 ## Verbs & Basic Conjugations
 
@@ -97,7 +102,6 @@
 | **5** |            |            |                      |                                                    |
 |            | häiritä    | häiritsen  | to disturb           | *häiritsen sinua*, *anteeksi että häiritsen*       |
 
-### Self-Test Questions
 1. Puhun _____ (englanti) ja vähän _____ (suomi). En puhu _____ (ranska).
 2. Mun äiti puhuu _____ (minä) _____ (ruotsi).
 3. Anteeksi, en _____ (ymmärtää). Voitko toistaa?
@@ -123,16 +127,15 @@
 | **Other** | | | | |
 | Neutral | se | sen | it, its | Se on kaunis kaupunki. Sen nimi on Helsinki. |
 
-## Key Expressions & Function Words
+## Question Words (Kysymyssanat)
 
-### Question Words
-- kuka - who
-- mikä - what
-- missä - where
-- miten - how
-- kuinka - how/how much
-- minkä ikäinen - how old
-- minkä maalainen - what nationality
+- kuka = who
+- mikä = what
+- missä = where
+- miten = how
+- kuinka = how/how much
+- minkä ikäinen = how old
+- minkä maalainen = what nationality
 
 > [!TIP]
 > In Finnish, **miten** and **kuinka** both translate to “how”, but they have slightly different uses. **Miten** is mainly used to ask about the way, method, or manner in which something happens:
@@ -156,26 +159,76 @@
 >
 > It's asking about a characteristic or belonging to a category.
 
-### Yes/No & Responses
-- ei - no/not
-- anteeksi - sorry/excuse me
-- ei se mitään - it's nothing/no problem
-- ole hyvä - here you are/please
-- kiitos - thank you
-- samoin - likewise
+## Common Expressions & Responses
 
-### Polite Expressions
-- tervetuloa - welcome
-- hei - hello/hi
-- anteeksi että häiritsen - sorry to bother you
+### Greetings & Polite Expressions
+
+- hei = hello/hi
+- tervetuloa = welcome
+- anteeksi = sorry/excuse me
+- anteeksi että häiritsen = sorry to bother you
+- hauska tutustua = nice to meet you
+- nähdään = see you
+
+### Yes/No & Responses
+- ei = no/not
+- kiitos = thank you
+- ole hyvä = here you are/please
+- ei se mitään = it's nothing/no problem
+- samoin = likewise
 
 ### Connecting Words
-- ja - and
-- että - that
-- entä - what about/and
-- vain - only
+- ja = and
+- että = that
+- entä = what about/and
+- vain = only
 
-## Exercises
+## Practice Exercises (Harjoitukset)
+
+### Harjoitus 1
+
+Yhdistä kysymys ja vastaus.
+
+- yhdistää (type 3) = to connect/match
+- kysymys = question
+- vastaus = answer
+
+### Harjoitus 2
+
+Lue Susanin ja Juhanin dialogi parin kanssa. Vaihda dialogiin omat tiedot.
+
+- lukea (type 2) = to read
+- parin kanssa = with a partner
+- vaihtaa (type 1) = to change/switch
+- tiedot = information/details
+
+### Harjoitus 3
+
+Vastaa kysymyksiin.
+
+- vastata (type 1) = to answer
+
+Same set of questions as above, asking for the very basic information. Note how all the questions use "you" (**sinä**) and you should be very comfortable with asking and recognizing questions in this manner.
+
+1. Kuka sinä olet?
+2. Mikä sinun etunimi on?
+3. Mikä sinun sukunimi on?
+4. Miten sinun nimi kirjoitetaan?
+5. Minkä maalainen olet?
+6. Missä sinä asut?
+7. Mitä kieltä puhut?
+
+### Harjoitus 4
+
+Tutustu kurssikavereihisi. Kysy tehtävän 3 kysymykset kaikilta kurssikavereiltasi.
+
+- tutustua (type 2) = to get to know
+- kurssikaveri = classmate (basic form)
+- kysyä (type 2) = to ask
+- tehtävä = task/exercise (-n for genitive)
+- kaikki = all/everyone
+
+## Chapter Quiz
 
 ### A. Question Words Practice
 
