@@ -1,5 +1,9 @@
 # Oma Suomi 1, Chapter 1
 
+- Basic introductions and greetings
+- Personal pronouns (minä, sinä, hän)
+- Negative expressions (en ymmärrä, en puhu)
+
 ## Tervetuloa!
 
 > [!IMPORTANT]
@@ -45,11 +49,6 @@
 - **Missä hän asuu?** - Hän asuu Suomessa.
 - **Mitä kieltä hän puhuu?** - Hän puhuu suomea. Hän ei puhu ranskaa. Hän ymmärtää vähän englantia.
 
-## Reflections
-- Basic introductions and greetings
-- Personal pronouns (minä, sinä, hän)
-- Negative expressions (en ymmärrä, en puhu)
-
 ### Self-test questions
 1. Who are you?
 2. What is her surname?
@@ -63,7 +62,7 @@
 10. Nice to meet you!
 11. See you then!
 
-### joku - Is someone problem?
+### Is someone problem?
 **Joku** means someone/somebody or some/any. In "Onko joku ongelma?" it means "Is there **some** problem?" or more naturally "Is there **any** problem?"
 
 Other examples:
@@ -85,94 +84,94 @@ It's asking about a characteristic or belonging to a category.
 
 ## Sanasto
 
-- allekirjoitus, allekirjoituksen [gradation: us→uks]
-- anteeksi
-- asua (1), asun + missä
-- ei
-- ei se mitään
-- englanti, englannin
-- Englanti, Englannin
-- entä
-- että
-- etunimi, etunimen
-- hauska, hauskan
-- he, heidän
-- hei
-- henkilötiedot, henkilötietojen
-- henkilötunnus, henkilötunnuksen [gradation: us→uks]
-- häiritä (5), häiritsen
-- hän, hänen
-- ikä, iän
-- ja
-- joku, jonkun
-- Kanada, Kanadan
-- kansalaisuus, kansalaisuuden
-- kaupunki, kaupungin [gradation: nk→ng]
-- kieli, kielen
-- kiitos, kiitoksen
-- kirjoittaa (1), kirjoitan
-- koti, kodin
-- kuinka
-- kuka, kenen
-- kysymys, kysymyksen
-- maa, maan
-- me, meidän
-- mies, miehen [irregular: s→hen]
-- mikä, minkä
-- minkä ikäinen
-- minkä maalainen
-- minä, minun
-- missä
-- miten
-- naapuri, naapurin
-- naimaton, naimattoman
-- nainen, naisen
-- nimi, nimen
-- numero, numeron
-- nähdä (2), näen
-- ole hyvä
-- olla (3), olen
-- ongelma, ongelman
-- opettaja, opettajan
-- opiskella (3), opiskelen
-- osoite, osoitteen [gradation: e→ee]
-- postinumero, postinumeron
-- postitoimipaikka, postitoimipaikan
-- puhelin, puhelimen [gradation: in→ime]
-- puhelinnumero, puhelinnumeron
-- puhua (1), puhun
-- raha, rahan
-- Ranska, Ranskan
-- samoin
-- sanoa (1), sanon
-- se, sen
-- sinä, sinun
-- siviilisääty, siviilisäädyn
-- sukunimi, sukunimen
-- sukupuoli, sukupuolen
-- suomalainen, suomalaisen [gradation: nen→se]
-- suomi, suomen [note: language]
-- Suomi, Suomen [note: country]
-- syntymäaika, syntymäajan
-- sähköposti, sähköpostin
-- sähköpostiosoite, sähköpostiosoitteen
-- talo, talon
-- tavata (4), tapaan
-- te, teidän
-- tervetuloa
-- tutustua (1), tutustun
-- täydentää (1), täydennän
-- uusi, uuden [gradation: si→de]
-- vaimo, vaimon
-- vain
-- vanha, vanhan
-- Venäjä, Venäjän
-- venäläinen, venäläisen
-- vuosi, vuoden [gradation: si→de]
-- vähän
-- Yhdysvallat, Yhdysvaltojen
-- ymmärtää (1), ymmärrän
-- äidinkieli, äidinkielen
+1. allekirjoitus, allekirjoituksen \[gradation: us→uks]
+2. anteeksi
+3. asua (1), asun + missä
+4. ei
+5. ei se mitään
+6. englanti, englannin
+7. Englanti, Englannin
+8. entä
+9. että
+10. etunimi, etunimen
+11. hauska, hauskan
+12. he, heidän
+13. hei
+14. henkilötiedot, henkilötietojen
+15. henkilötunnus, henkilötunnuksen \[gradation: us→uks]
+16. häiritä (5), häiritsen
+17. hän, hänen
+18. ikä, iän
+19. ja
+20. joku, jonkun
+21. Kanada, Kanadan
+22. kansalaisuus, kansalaisuuden
+23. kaupunki, kaupungin \[gradation: nk→ng]
+24. kieli, kielen
+25. kiitos, kiitoksen
+26. kirjoittaa (1), kirjoitan
+27. koti, kodin
+28. kuinka
+29. kuka, kenen
+30. kysymys, kysymyksen
+31. maa, maan
+32. me, meidän
+33. mies, miehen \[irregular: s→hen]
+34. mikä, minkä
+35. minkä ikäinen
+36. minkä maalainen
+37. minä, minun
+38. missä
+39. miten
+40. naapuri, naapurin
+41. naimaton, naimattoman
+42. nainen, naisen
+43. nimi, nimen
+44. numero, numeron
+45. nähdä (2), näen
+46. ole hyvä
+47. olla (3), olen
+48. ongelma, ongelman
+49. opettaja, opettajan
+50. opiskella (3), opiskelen
+51. osoite, osoitteen \[gradation: e→ee]
+52. postinumero, postinumeron
+53. postitoimipaikka, postitoimipaikan
+54. puhelin, puhelimen \[gradation: in→ime]
+55. puhelinnumero, puhelinnumeron
+56. puhua (1), puhun
+57. raha, rahan
+58. Ranska, Ranskan
+59. samoin
+60. sanoa (1), sanon
+61. se, sen
+62. sinä, sinun
+63. siviilisääty, siviilisäädyn
+64. sukunimi, sukunimen
+65. sukupuoli, sukupuolen
+66. suomalainen, suomalaisen \[gradation: nen→se]
+67. suomi, suomen \[note: language]
+68. Suomi, Suomen \[note: country]
+69. syntymäaika, syntymäajan
+70. sähköposti, sähköpostin
+71. sähköpostiosoite, sähköpostiosoitteen
+72. talo, talon
+73. tavata (4), tapaan
+74. te, teidän
+75. tervetuloa
+76. tutustua (1), tutustun
+77. täydentää (1), täydennän
+78. uusi, uuden \[gradation: si→de]
+79. vaimo, vaimon
+80. vain
+81. vanha, vanhan
+82. Venäjä, Venäjän
+83. venäläinen, venäläisen
+84. vuosi, vuoden \[gradation: si→de]
+85. vähän
+86. Yhdysvallat, Yhdysvaltojen
+87. ymmärtää (1), ymmärrän
+88. äidinkieli, äidinkielen
 
 ## Verbs
 
