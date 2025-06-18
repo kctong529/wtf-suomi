@@ -415,5 +415,7 @@ Write a short self-introduction using the vocabulary and structures from this ch
 
 ## Finally, Remember
 
-- puhua, asua, kirjoittaa, sanoa, ymmärtää, nähdä, olla, opiskella, tavata
-- lukea, kysyä, vastata
+- **12 Verbs:** puhua, asua, kirjoittaa, sanoa, ymmärtää, nähdä, olla, opiskella, tavata, lukea, kysyä, vastata
+- **6 Question Words:** kuka, mikä, missä, miten, kuinka, minkä
+- **6 Languages:** suomi (suomea), englanti (englantia), ruotsi (ruotsia), venäjä (venäjää), ranska (ranskaa), saksa (saksaa)
+- **5 Greetings:** tervetuloa, anteeksi, kiitos, hauska tutustua, nähdään
