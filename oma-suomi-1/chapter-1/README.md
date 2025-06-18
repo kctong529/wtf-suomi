@@ -86,25 +86,34 @@ Don't worry if some of these are challenging. But make sure to come back and che
 
 ## Verbs & Basic Conjugations
 
-| Type       | Infinitive | 1st Person | Meaning              | Example Usage                                      |
-| :--------- | :--------- | :--------- | :------------------- | :------------------------------------------------- |
-| **1** |            |            |                      |                                                    |
-|            | puhua      | puhun      | to speak             | *puhun suomea*, *puhun sinulle*                    |
-|            | asua       | asun       | to live/reside       | *asun Helsingissä*, *asun talossa*                 |
-|            | kirjoittaa | kirjoitan  | to write             | *kirjoitan kirjeen*, *kirjoitan nimeni*            |
-|            | sanoa      | sanon      | to say               | *sanon jotain*, *sanon sinulle*                    |
-|            | tutustua   | tutustun   | to get acquainted    | *tutustun uuteen ihmiseen*                         |
-|            | täydentää  | täydennän  | to complete/fill out | *täydennän lomakkeen*                              |
-|            | ymmärtää   | ymmärrän   | to understand        | *ymmärrän suomea*, *ymmärrän sinut*                |
-| **2** |            |            |                      |                                                    |
-|            | nähdä      | näen       | to see               | *näen sinut*, *näen talon*                         |
-| **3** |            |            |                      |                                                    |
-|            | olla       | olen       | to be                | *olen opettaja*, *olen kotona*, *olen suomalainen* |
-|            | opiskella  | opiskelen  | to study             | *opiskelen suomea*                                 |
-| **4** |            |            |                      |                                                    |
-|            | tavata     | tapaan     | to meet              | *tapaan ystävän*, *tapaan sinut huomenna*          |
-| **5** |            |            |                      |                                                    |
-|            | häiritä    | häiritsen  | to disturb           | *häiritsen sinua*, *anteeksi että häiritsen*       |
+Notice how verbs change: minä olen, sinä olet, hän on. In this chapter, we'll focus on the 1st person conjugation of them. Finnish teachers often focus on rules and patterns, but I prefer a different approach. True mastery comes from repetition. Try to memorize both the basic form and how you'll use it in a **minä** sentence.
+
+| Type | Infinitive | 1st Person | Meaning | Example |
+|------------|------------|------------|----------------------|------------------------------------------------|
+| **1** | | | | |
+|            | puhua      | puhun      | to speak             | puhun suomea, puhun sinulle                    |
+|            | asua       | asun       | to live/reside       | asun Helsingissä, asun talossa                 |
+|            | kirjoittaa | kirjoitan  | to write             | kirjoitan kirjeen, kirjoitan nimeni            |
+|            | sanoa      | sanon      | to say               | sanon jotain, sanon sinulle                    |
+|            | tutustua   | tutustun   | to get acquainted    | tutustun uuteen ihmiseen                       |
+|            | täydentää  | täydennän  | to complete/fill out | täydennän lomakkeen                            |
+|            | ymmärtää   | ymmärrän   | to understand        | ymmärrän suomea, ymmärrän sinut                |
+| **2** | | | | |
+|            | nähdä      | näen       | to see               | näen sinut, näen talon                         |
+| **3** | | | | |
+|            | olla       | olen       | to be                | olen opettaja, olen kotona, olen suomalainen   |
+|            | opiskella  | opiskelen  | to study             | opiskelen suomea                               |
+| **4** | | | | |
+|            | tavata     | tapaan     | to meet              | tapaan ystävän, tapaan sinut huomenna          |
+| **5** | | | | |
+|            | häiritä    | häiritsen  | to disturb           | häiritsen sinua, anteeksi että häiritsen       |
+
+> [!IMPORTANT]
+> To make a negative sentence in the **minä** form, use **en** + 1st person form without the final *-n*.
+>
+> - puhun (puhua) → en puhu
+> - olen (olla) → en ole
+> - ymmärrän (ymmärtää) → en ymmärrä
 
 1. Puhun _____ (englanti) ja vähän _____ (suomi). En puhu _____ (ranska).
 2. Mun äiti puhuu _____ (minä) _____ (ruotsi).
@@ -115,6 +124,7 @@ Don't worry if some of these are challenging. But make sure to come back and che
 7. Tänään minä _____ (tavata) uuden opettajan.
 8. I don't understand.
 9. I don't speak Finnish.
+10. I meet a friend today. (instead of killing him)
 
 ## Personal Pronouns & Possessive Forms
 
