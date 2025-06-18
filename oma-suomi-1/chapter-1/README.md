@@ -429,3 +429,4 @@ Write a short self-introduction using the vocabulary and structures from this ch
 - **6 Question Words:** kuka, mikä, missä, miten, kuinka, minkä
 - **6 Languages:** suomi (suomea), englanti (englantia), ruotsi (ruotsia), venäjä (venäjää), ranska (ranskaa), saksa (saksaa)
 - **5 Greetings:** tervetuloa, anteeksi, kiitos, hauska tutustua, nähdään
+- **3 Golden Phrases:** en ymmärrä, mikä se on englanniksi? Voitko toistaa?
