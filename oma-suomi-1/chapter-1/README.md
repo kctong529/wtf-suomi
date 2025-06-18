@@ -126,6 +126,8 @@ Notice how verbs change: minä olen, sinä olet, hän on. In this chapter, we'll
 9. I don't speak Finnish.
 10. I meet a friend today. (instead of killing him)
 
+Answer Key: 1. englantia, suomea, ranskaa | 2. minulle, ruotsia | 3. ymmärrä | 4. kemiaa | 5. olen, on | 6. opiskelemme | 7. tapaan | 8. En ymmärrä. | 9. En puhu suomea. | 10. Tapaan ystävän tänään.
+
 ## Personal Pronouns & Possessive Forms
 
 | Person | Subject Pronoun | Possessive Form | English | Example |
