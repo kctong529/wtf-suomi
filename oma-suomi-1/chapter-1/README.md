@@ -53,6 +53,8 @@ Dialogue Comprehension Questions:
 
 ### Self-Test Questions
 
+Try to translate the following into Finnish before going into the details.
+
 1. Who are you?
 2. What is his surname?
 3. How do you spell your name?
@@ -64,6 +66,8 @@ Dialogue Comprehension Questions:
 9. Thank you!
 10. Nice to meet you!
 11. See you then!
+
+Don't worry if some of these are challenging. But make sure to come back and check that you know all of them before you move on to the next chapter.
 
 > [!TIP]
 > **Joku** is trickier than it looks:
@@ -158,6 +162,9 @@ Dialogue Comprehension Questions:
 > - Minkä merkkinen auto? = What brand of car?
 >
 > It's asking about a characteristic or belonging to a category.
+
+> [!CAUTION]
+> You might notice **mitä** in some expressions like "Mitä kieltä puhut?" (What language do you speak?). This is also "what" but in a different form. Don't worry about mitä for now. We'll cover it in detail later. For this chapter, focus on **mikä** for "what is" questions.
 
 ## Common Expressions & Responses
 
@@ -409,3 +416,4 @@ Write a short self-introduction using the vocabulary and structures from this ch
 ## Finally, Remember
 
 - puhua, asua, kirjoittaa, sanoa, ymmärtää, nähdä, olla, opiskella, tavata
+- lukea, kysyä, vastata
